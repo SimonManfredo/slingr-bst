@@ -1,4 +1,4 @@
-# slingr-bst
+# Slingr
 Binary Search Tree
 
 ## to install library's
