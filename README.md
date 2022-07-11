@@ -1,17 +1,17 @@
 # Slingr
 Binary Search Tree
 
-## to install library's
+## install library's
 
 ```npm install```
 
-## to start the proyect
+## Run the proyect
 
 ```npm run start```
 
 ![image](https://user-images.githubusercontent.com/40775106/178167348-0e2c95bd-3c36-4931-800b-34583ddde079.png)
 
-## to run the tests
+## run the tests
 
 ```npm run test```
 
