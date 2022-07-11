@@ -32,8 +32,8 @@ function search_node(node, data) {
     else if (data < node.data)
         return this.search_node(node.left, data);
 
-    // if data is less than node's data
-    // move left
+    // if data is greater than node's data
+    // move right
     else if (data > node.data)
         return this.search_node(node.right, data);
 
